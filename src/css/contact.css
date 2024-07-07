@@ -1,0 +1,426 @@
+.contact-container {
+    margin-bottom: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-container h1 {
+    text-transform: capitalize;
+    margin-bottom: 7px;
+    margin-top: 0;
+}
+
+.contact-container .get {
+    text-transform: capitalize;
+    margin-top: 0;
+    color: #555555;
+    margin-bottom: 50px;
+}
+
+.contact-links {
+    width: fit-content;
+    height: fit-content;
+    padding: 30px 15px;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+
+    margin-bottom: 50px;
+
+}
+
+.gmail-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-right: 50px;
+    position: relative;
+    transition-duration: 0.5s;
+}
+
+.gmail-container::before {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 40px;
+    width: 0;
+    height: 3px;
+    background-color: rgb(181, 181, 181);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+    transition-duration: 0.5s;
+}
+
+.gmail-container:hover {
+    color: rgb(181, 181, 181);
+}
+
+.gmail-container:hover::before {
+    width: 90%;
+}
+
+.gmail-container img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.linkedin-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-transform: capitalize;
+    position: relative;
+}
+
+.linkedin-container::before {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 40px;
+    width: 0;
+    height: 3px;
+    background-color: rgb(181, 181, 181);
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+    transition-duration: 0.5s;
+}
+
+.linkedin-container:hover {
+    color: rgb(181, 181, 181);
+}
+
+.linkedin-container:hover::before {
+    width: 70%;
+}
+
+.linkedin-container img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    margin-top: -9px;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name-container {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+}
+
+.name-container label {
+    color: #555555;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.name-container input {
+    padding: 15px 10px;
+    outline: none;
+    border: 2px solid black;
+    font-size: 16px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+    transition-duration: 0.5s;
+    margin-bottom: 20px;
+}
+
+.name-container input:focus {
+    border-color: #ff2800;
+}
+
+
+.mail-container {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+}
+
+.mail-container label {
+    color: #555555;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.mail-container input {
+    padding: 15px 10px;
+    outline: none;
+    border: 2px solid black;
+    font-size: 16px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+    transition-duration: 0.5s;
+    margin-bottom: 20px;
+}
+
+.mail-container input:focus {
+    border-color: #ff2800;
+}
+
+.area-container {
+    display: flex;
+    flex-direction: column;
+    width: 550px;
+}
+
+
+.area-container label {
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.text-area {
+    width: 550px;
+    height: 200px;
+    padding: 15px 10px;
+    outline: none;
+    border: 2px solid black;
+    font-size: 16px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+    transition-duration: 0.5s;
+    margin-bottom: 20px;
+    resize: none;
+}
+
+.text-area:focus {
+    border-color: #ff2800;
+}
+
+.sub-btn {
+    text-transform: capitalize;
+    outline: none;
+    background-color: transparent;
+    border: none;
+    background-color: #ff0000;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    margin: auto;
+    display: flex;
+}
+
+.sub-btn:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
+}
+
+.form-container img {
+    height: 500px;
+    width: 100%;
+    margin-left: 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
+@media (max-width: 400px) {
+
+    .contact-links {
+        flex-direction: column;
+        width: fit-content;
+        padding: 25px 3px;
+    }
+
+    .form-container {
+        flex-direction: column;
+        width: 700px;
+    }
+
+    .gmail-container {
+        margin-right: 0;
+        margin-bottom: 16px;
+    }
+
+    .form-container img {
+        display: none;
+    }
+
+    .linkedin-container:hover {
+        color: black;
+    }
+
+    .linkedin-container:hover::before {
+        width: 0;
+    }
+
+    .gmail-container:hover {
+        color: black;
+    }
+
+    .gmail-container:hover::before {
+        width: 0;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 600px) {
+
+    .contact-links {
+        flex-direction: column;
+        width: 394px;
+    }
+
+    .gmail-container {
+        margin-bottom: 15px;
+    }
+
+    .form-container img {
+        display: none;
+    }
+
+    .name-container input {
+        width: 400px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .name-container label {
+        display: none;
+    }
+
+    .mail-container input {
+        width: 400px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .mail-container label {
+        display: none;
+    }
+
+    .text-area {
+        width: 400px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .area-container label {
+        display: none;
+    }
+
+    .linkedin-container:hover {
+        color: black;
+    }
+
+    .linkedin-container:hover::before {
+        width: 0;
+    }
+
+    .gmail-container:hover {
+        color: black;
+    }
+
+    .gmail-container:hover::before {
+        width: 0;
+    }
+}
+
+@media (min-width: 600px) and (max-width: 800px) {
+    .form-container img {
+        display: none;
+    }
+
+    .linkedin-container:hover {
+        color: black;
+    }
+
+    .linkedin-container:hover::before {
+        width: 0;
+    }
+
+    .gmail-container:hover {
+        color: black;
+    }
+
+    .gmail-container:hover::before {
+        width: 0;
+    }
+}
+
+
+
+@media (min-width: 800px) and (max-width: 1250px) {
+    .form-container img {
+        display: none;
+    }
+
+    .linkedin-container:hover {
+        color: black;
+    }
+
+    .linkedin-container:hover::before {
+        width: 0;
+    }
+
+    .gmail-container:hover {
+        color: black;
+    }
+
+    .gmail-container:hover::before {
+        width: 0;
+    }
+}
+
+
+@media (min-width: 1250px) {}
