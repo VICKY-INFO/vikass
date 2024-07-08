@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vikass/static/css/main.ecce155e.css",
-    "main.js": "/vikass/static/js/main.288813d1.js",
-    "static/js/453.acca0757.chunk.js": "/vikass/static/js/453.acca0757.chunk.js",
+    "main.js": "/vikass/static/js/main.9509bf2b.js",
+    "static/js/453.5d437981.chunk.js": "/vikass/static/js/453.5d437981.chunk.js",
     "static/media/Group_5.png": "/vikass/static/media/Group_5.04a4a7910483059df5ab.png",
     "static/media/converter.png": "/vikass/static/media/converter.a31388f320c52829fa1a.png",
     "static/media/Gym.png": "/vikass/static/media/Gym.7a21c0f78dcfefbf71d3.png",
@@ -23,11 +23,11 @@
     "index.html": "/vikass/index.html",
     "static/media/gmail.svg": "/vikass/static/media/gmail.b27207fb0e0cb1a1d1b3733b5dff3316.svg",
     "main.ecce155e.css.map": "/vikass/static/css/main.ecce155e.css.map",
-    "main.288813d1.js.map": "/vikass/static/js/main.288813d1.js.map",
-    "453.acca0757.chunk.js.map": "/vikass/static/js/453.acca0757.chunk.js.map"
+    "main.9509bf2b.js.map": "/vikass/static/js/main.9509bf2b.js.map",
+    "453.5d437981.chunk.js.map": "/vikass/static/js/453.5d437981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecce155e.css",
-    "static/js/main.288813d1.js"
+    "static/js/main.9509bf2b.js"
   ]
 }
