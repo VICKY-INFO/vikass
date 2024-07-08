@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/vikass/static/css/main.c247a656.css",
-    "main.js": "/vikass/static/js/main.0d135e9d.js",
+    "main.js": "/vikass/static/js/main.bd6c08e8.js",
     "static/js/453.5d437981.chunk.js": "/vikass/static/js/453.5d437981.chunk.js",
     "static/media/resume.pdf": "/vikass/static/media/resume.c9fe5cb1c84dea197942.pdf",
     "static/media/VLSI.png": "/vikass/static/media/VLSI.939be3666242ab3f05e3.png",
@@ -9,22 +9,20 @@
     "static/media/SAP.png": "/vikass/static/media/SAP.598e7946ca3d328a3ae4.png",
     "static/media/vicky.jpeg": "/vikass/static/media/vicky.137e91001baf5fc40e8a.jpeg",
     "static/media/fire_system.png": "/vikass/static/media/fire_system.d060b0ff198b20fad5c6.png",
-    "static/media/html-CfJn_UEt.png": "/vikass/static/media/html-CfJn_UEt.1d7b133e22ffe4829da6.png",
     "static/media/lcd_game.png": "/vikass/static/media/lcd_game.d03cb16c6a674cc2c087.png",
     "static/media/about.jpg": "/vikass/static/media/about.63c4d4e12b3453a4eec1.jpg",
-    "static/media/css-CjQniWua.png": "/vikass/static/media/css-CjQniWua.9f33c557b92e4e2e1cc8.png",
-    "static/media/react-CBjhoM09.png": "/vikass/static/media/react-CBjhoM09.20adfb35ae6a6e5817bf.png",
+    "static/media/matlab.png": "/vikass/static/media/matlab.577a1ee4f30e77581cae.png",
     "static/media/altium.png": "/vikass/static/media/altium.e4d915db84978f37ee17.png",
     "static/media/GitHub.png": "/vikass/static/media/GitHub.44eee0c4a6c25b0d7347.png",
     "static/media/logo.svg": "/vikass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/vikass/index.html",
     "static/media/gmail.svg": "/vikass/static/media/gmail.b27207fb0e0cb1a1d1b3733b5dff3316.svg",
     "main.c247a656.css.map": "/vikass/static/css/main.c247a656.css.map",
-    "main.0d135e9d.js.map": "/vikass/static/js/main.0d135e9d.js.map",
+    "main.bd6c08e8.js.map": "/vikass/static/js/main.bd6c08e8.js.map",
     "453.5d437981.chunk.js.map": "/vikass/static/js/453.5d437981.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c247a656.css",
-    "static/js/main.0d135e9d.js"
+    "static/js/main.bd6c08e8.js"
   ]
 }
