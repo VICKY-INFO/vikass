@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/vikass/static/css/main.ecce155e.css",
+    "main.js": "/vikass/static/js/main.288813d1.js",
+    "static/js/453.acca0757.chunk.js": "/vikass/static/js/453.acca0757.chunk.js",
+    "static/media/Group_5.png": "/vikass/static/media/Group_5.04a4a7910483059df5ab.png",
+    "static/media/converter.png": "/vikass/static/media/converter.a31388f320c52829fa1a.png",
+    "static/media/Gym.png": "/vikass/static/media/Gym.7a21c0f78dcfefbf71d3.png",
+    "static/media/resume.pdf": "/vikass/static/media/resume.c9fe5cb1c84dea197942.pdf",
+    "static/media/smart_home.png": "/vikass/static/media/smart_home.a87d97b838351345b0e9.png",
+    "static/media/vicky.jpeg": "/vikass/static/media/vicky.137e91001baf5fc40e8a.jpeg",
+    "static/media/fire_system.png": "/vikass/static/media/fire_system.d060b0ff198b20fad5c6.png",
+    "static/media/html-CfJn_UEt.png": "/vikass/static/media/html-CfJn_UEt.1d7b133e22ffe4829da6.png",
+    "static/media/calculator.png": "/vikass/static/media/calculator.f80468cc5cb9a81dec29.png",
+    "static/media/lcd_game.png": "/vikass/static/media/lcd_game.d03cb16c6a674cc2c087.png",
+    "static/media/about.jpg": "/vikass/static/media/about.63c4d4e12b3453a4eec1.jpg",
+    "static/media/css-CjQniWua.png": "/vikass/static/media/css-CjQniWua.9f33c557b92e4e2e1cc8.png",
+    "static/media/Automatic barrier and security syste.jpg": "/vikass/static/media/Automatic barrier and security syste.602e94d75a60b3349773.jpg",
+    "static/media/react-CBjhoM09.png": "/vikass/static/media/react-CBjhoM09.20adfb35ae6a6e5817bf.png",
+    "static/media/Bootstrap-DhKA-bzs.png": "/vikass/static/media/Bootstrap-DhKA-bzs.d4ea93d1c3e7955fcf9a.png",
+    "static/media/GitHub.png": "/vikass/static/media/GitHub.44eee0c4a6c25b0d7347.png",
+    "static/media/logo.svg": "/vikass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/vikass/index.html",
+    "static/media/gmail.svg": "/vikass/static/media/gmail.b27207fb0e0cb1a1d1b3733b5dff3316.svg",
+    "main.ecce155e.css.map": "/vikass/static/css/main.ecce155e.css.map",
+    "main.288813d1.js.map": "/vikass/static/js/main.288813d1.js.map",
+    "453.acca0757.chunk.js.map": "/vikass/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecce155e.css",
+    "static/js/main.288813d1.js"
+  ]
+}
